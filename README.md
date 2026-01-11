@@ -1,4 +1,4 @@
-# MySQL Assignment-5 – Library Database
+# Assignment-5 – MySQL Library Database
 
 ## Tables
 - books
